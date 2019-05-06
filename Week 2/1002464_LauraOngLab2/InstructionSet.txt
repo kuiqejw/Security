@@ -1,0 +1,3 @@
+To run this file:
+Modify the Student ID and points in Lines 80,81
+python lab2Client.py
